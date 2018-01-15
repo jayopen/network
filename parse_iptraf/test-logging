@@ -1,0 +1,63 @@
+Sat Jul  1 21:44:09 2017; ******** LAN traffic monitor started ********
+
+*** LAN traffic log, generated Sat Jul  1 21:44:10 2017
+
+
+Running time: 1 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:11 2017
+
+
+Running time: 2 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:12 2017
+
+
+Running time: 3 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:13 2017
+
+
+Running time: 4 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:14 2017
+
+
+Running time: 5 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:15 2017
+
+
+Running time: 6 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:16 2017
+
+
+Running time: 7 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:17 2017
+
+
+Running time: 8 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:18 2017
+
+
+Running time: 9 seconds
+
+*** LAN traffic log, generated Sat Jul  1 21:44:19 2017
+
+
+Ethernet address: b827eb0f35ce
+	Incoming total 3 packets, 156 bytes; 0 IP packets
+	Outgoing total 2 packets, 104 bytes; 0 IP packets
+	Average rates: 0.10 kbits/s incoming, 0.00 kbits/s outgoing
+	Last 5-second rates: 0.20 kbits/s incoming, 0.00 kbits/s outgoing
+
+Ethernet address: ac3743490f76
+	Incoming total 2 packets, 104 bytes; 0 IP packets
+	Outgoing total 3 packets, 156 bytes; 0 IP packets
+	Average rates: 0.00 kbits/s incoming, 0.10 kbits/s outgoing
+	Last 5-second rates: 0.00 kbits/s incoming, 0.20 kbits/s outgoing
+
+Running time: 10 seconds
